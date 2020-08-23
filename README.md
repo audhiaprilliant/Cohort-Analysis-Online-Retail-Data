@@ -13,13 +13,13 @@ And several softwares:
 
 ## Dataset
 For this analysis, we use **Online Retail Data**
-|No.	|Nama Peubah	|Tipe	|Penjelasan |
+|No.	|Variable Name	|Type	|Information |
 |-----|--------|--------|--------|
-|1	|*InvoiceNo*	|Character	|Nomor pembelian produk yang tertera pada bukti pembelian produk di toko retail online |
-|2	|*StockCode*	|Character	|Kode produk yang terdapat di toko retail online |
-|3	|*Description*	|Character	|Deskripsi dari StockCode atau nama produk yang terdapat di toko retail online |
-|4	|*Quantity*	|Numeric	|Banyaknya pembelian pelanggan terhadap produk (satuan unit barang) |
-|5	|*InvoiceDate*	|Date	|Tanggal pembelian |
-|6	|*UnitPrice*	|Numeric	|Harga produk |
-|7	|*CustomerID*	|Factor	|ID pelanggan terdaftar di toko retail online |
-|8	|*Country*	|Factor	|Negara pelanggan melakukan pembelian terhadap produk di toko retail online |
+|1	|*InvoiceNo*	|Character	|Product purchase number listed payment receipt at online retail stores |
+|2	|*StockCode*	|Character	|Product codes that found at online retail stores |
+|3	|*Description*	|Character	|Description of the stock codes or product name that found at online retail stores |
+|4	|*Quantity*	|Numeric	|The number of customer purchases (unit) |
+|5	|*InvoiceDate*	|Date	|Purchase date |
+|6	|*UnitPrice*	|Numeric	|Product prices |
+|7	|*CustomerID*	|Factor	|Customer ID registered at an online retail store |
+|8	|*Country*	|Factor	|The customer country who makes a purchase for a product at an online retail store |
