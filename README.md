@@ -22,4 +22,4 @@ For this analysis, we use **Online Retail Data**
 |5	|*InvoiceDate*	|Date	|Purchase date |
 |6	|*UnitPrice*	|Numeric	|Product prices |
 |7	|*CustomerID*	|Factor	|Customer ID registered at an online retail store |
-|8	|*Country*	|Factor	|The customer country who makes a purchase for a product at an online retail store |
+|8	|*Country*	|Factor	|The country customer that makes a purchase for a product at an online retail store |
