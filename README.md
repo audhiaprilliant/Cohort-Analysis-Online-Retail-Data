@@ -14,7 +14,7 @@ And several softwares:
 ## Dataset
 For this analysis, we use **Online Retail Data**
 |No.	|Nama Peubah	|Tipe	|Penjelasan |
-|-----|--------|
+|-----|--------|--------|--------|
 |1	|*InvoiceNo*	|Character	|Nomor pembelian produk yang tertera pada bukti pembelian produk di toko retail online |
 |2	|*StockCode*	|Character	|Kode produk yang terdapat di toko retail online |
 |3	|*Description*	|Character	|Deskripsi dari StockCode atau nama produk yang terdapat di toko retail online |
